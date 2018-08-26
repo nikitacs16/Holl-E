@@ -7,4 +7,4 @@ Arxiv version of the paper and attractive page for dataset and datastats coming 
 
 [HRED](https://github.com/sumanbanerjee1/Code-Mixed-Dialog)
 
-[GTTP] (https://github.com/abisee/pointer-generator)
+[GTTP](https://github.com/abisee/pointer-generator)
