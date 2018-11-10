@@ -8,4 +8,4 @@ Page for dataset with leaderboard and datastats coming soon.
 
 [HRED](https://github.com/sumanbanerjee1/Code-Mixed-Dialog)
 
-[GTTP](https://github.com/abisee/pointer-generator)
+[GTTP](https://github.com/nikitacs16/q_pointer_generator)
