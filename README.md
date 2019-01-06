@@ -15,19 +15,11 @@ Existing dialog datasets contain a sequence of utterances and responses without 
 # References
 
     @inproceedings{DBLP:conf/emnlp/MogheABK18,
-  author    = {Nikita Moghe and
-               Siddhartha Arora and
-               Suman Banerjee and
-               Mitesh M. Khapra},
-  title     = {Towards Exploiting Background Knowledge for Building Conversation
-               Systems},
-  booktitle = {Proceedings of the 2018 Conference on Empirical Methods in Natural
+    author    = {Nikita Moghe and Siddhartha Arora and Suman Banerjee and Mitesh M. Khapra},  
+    title     = {Towards Exploiting Background Knowledge for Building Conversation
+               Systems},  
+    booktitle = {Proceedings of the 2018 Conference on Empirical Methods in Natural
                Language Processing, Brussels, Belgium, October 31 - November 4, 2018},
-  pages     = {2322--2332},
-  year      = {2018},
-  crossref  = {DBLP:conf/emnlp/2018},
-  url       = {https://aclanthology.info/papers/D18-1255/d18-1255},
-  timestamp = {Sat, 27 Oct 2018 20:04:50 +0200},
-  biburl    = {https://dblp.org/rec/bib/conf/emnlp/MogheABK18},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
+    pages     = {2322--2332}, 
+    year      = {2018}
+     }
