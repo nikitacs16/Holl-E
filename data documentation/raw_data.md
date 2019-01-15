@@ -17,7 +17,7 @@ oracle | oracle_reduced
 mixed-long | full_reduced
 mixed-short | mixed
 
-# Key documentation:
+### Key documentation:
 
 chat: The collected chat from which this example is stored as list. Every item in the list corresponds to one uterrance. The chat always begins with Speaker1 and Speaker2 follows. Alternate items correspond to respective speakers
 
